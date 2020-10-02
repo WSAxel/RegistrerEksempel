@@ -1,0 +1,5 @@
+CREATE TABLE Login(
+email VARCHAR(90) NOT NULL,
+username VARCHAR(90) NOT NULL ,
+password VARCHAR (90) NOT NULL,
+PRIMARY KEY (email));
